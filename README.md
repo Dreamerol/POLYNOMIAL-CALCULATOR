@@ -216,6 +216,14 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+<div align="left">
+
+
+
+
 
 
 
@@ -301,6 +309,17 @@ cal Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-t
 - Handles polynomial coefficients and operations directly  
 - Designed as a **console application** (no GUI)  
 - Useful both as a **learning project** and as a basis for extending polynomial tools
+
+
+
+
+
+</div>
+
+
+</div>
+
+
 
 
 
