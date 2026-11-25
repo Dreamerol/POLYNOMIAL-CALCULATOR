@@ -341,7 +341,6 @@ cal Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-t
 
 
 
-<h2 align="center">⭐ Explore repos & star what you find interesting.</h2>
 
 
 
@@ -351,6 +350,7 @@ cal Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-t
 
 
 
+<h2 align="center">⭐ Explore repos & star what you find interesting</h2>
 
 
 
@@ -360,7 +360,9 @@ cal Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-t
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Backend Engineer • Data Systems & APIs • Applied Machine Learning • Deep Learning • Neural Networks • Model Training • Data Pipelines • Data Science • LLMs • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • MLOps
+
+
+Mihaela Koseva (Михаела Косева) • Sofia University • SMG (СМГ) • Sofia • AI Engineer • Software Engineer • Applied Machine Learning • Deep Learning • Neural Networks • Model Optimization • Computer Vision • Image Processing • OpenCV • Object Detection • Data Science • LLMs • Python • C++ • Java • SQL • PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy • ETL • Data Modeling • Data Systems & APIs • MLOps • Git • GitHub: Dreamerol • github.com/Dreamerol
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -373,6 +375,10 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
+
+
+
+
 
 
 
